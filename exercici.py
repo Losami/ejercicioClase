@@ -3,8 +3,8 @@ i=0
 
 #Grup AP
 
-punt_extra.append("AlbertGil");
-punt_extra.append("PereCasanovas");
+punt_extra.append("AlbertGil_NOVALID");
+punt_extra.append("PereCasanovas_NOVALID");
 
 
 
