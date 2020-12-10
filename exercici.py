@@ -1,7 +1,13 @@
 punt_extra = []
 i=0
 
-punt_extra = ["PolR"];
+#Grup AP
+
+punt_extra.append("AlbertGil_NOVALID");
+punt_extra.append("PereCasanovas_NOVALID");
+
+
+
 
 for alumne in punt_extra:
 	print alumne;
